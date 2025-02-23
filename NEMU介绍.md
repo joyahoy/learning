@@ -84,3 +84,10 @@ nemu
 <p><a href="https://nju-projectn.github.io/ics-pa-gitbook/ics2024/nemu-isa-api.html" target="_blank" rel="noopener">这个页面</a>对上述API进行了整理, 供将来查阅使用, 目前你无需完全明白它们的作用.
 "抽象"是计算机系统中一个非常重要的概念, 如果你现在不明白抽象的意义,
 不必担心, 在PA的后续内容中, 你会一次又一次地遇到它.</p>
+<p>
+  4.
+</p>
+<ul>
+<li><code>nemu/include/generated/autoconf.h</code>, 阅读C代码时使用</li>
+<li><code>nemu/include/config/auto.conf</code>, 阅读Makefile时使用</li>
+</ul>
